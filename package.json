@@ -1,0 +1,26 @@
+{
+  "name": "employee-radar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dballard0628/Employee-Radar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dballard0628/Employee-Radar/issues"
+  },
+  "homepage": "https://github.com/dballard0628/Employee-Radar#readme",
+  "keywords": [],
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "inquirer": "^12.5.0",
+    "pg": "^8.14.0"
+  }
+}
