@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 import colors from "colors";
 import pkg from "pg";
 const { Pool } = pkg;
+import pg from "pg";
 
 dotenv.config();
 
