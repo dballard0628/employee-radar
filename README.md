@@ -22,4 +22,4 @@ You have a PostgreSQL database created.
 Installation
 ## Clone the repository:
 ## How to reach me: 
-dball@email.com Github: https://github.com/dballard0628/employee-radar  Walkthrough Video: https://drive.google.com/file/d/1VJju13pC3cPmtmucsFrzqlkteBOgEBVP/view
+Email: dball@email.com Github: https://github.com/dballard0628/employee-radar  Walkthrough Video: https://drive.google.com/file/d/1VJju13pC3cPmtmucsFrzqlkteBOgEBVP/view
